@@ -1,6 +1,6 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseongbok1214%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flenope1214%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseongbok1214&count_private=true)](https://github.com/leeseongbok1214)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenope1214&count_private=true)](https://github.com/lenope1214)
 
 
 
@@ -53,4 +53,4 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=kangju2000&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=lenope1214&show_icons=true&theme=dark" />

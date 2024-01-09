@@ -2,14 +2,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseongbok1214&count_private=true)](https://github.com/leeseongbok1214)
 
-내 플리를 부탁해, 플리즈 (2022.11.23 ~ 2022.11.29)
 
 
 <br />
-<li>Viva Republica(Toss)<sup><a href="https://toss.im">↗</a></sup> / UX Engineer Assistant <sub>(2023.12 ~ )</sub></li>
-<li>GDSC Gachon<sup><a href="https://gdsc.community.dev/gachon-university">↗</a></sup> / 1st FE Core Member <sub>(2023.09 ~ )</sub></li>
-<li>Gloddy<sup><a href="https://gloddykorea.com">↗</a></sup> / 외주 FE <sub>(2023.07 ~ 2023.11)</sub></li>
-<li>Prography<sup><a href="https://prography.org">↗</a></sup> / 8기 React 파트 <sub>(2023.02 ~ 2023.08)</sub></li>
+<li>(주)제이솔루션<sup><a href="https://j-sol.co.kr">↗</a></sup>ICT 연구개발팀 <sub>(2021.07 ~ )</sub></li>
 
 <br/>
 <br/>
